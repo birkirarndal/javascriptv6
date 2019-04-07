@@ -13,7 +13,7 @@ let images = [
     {
         name: "Nature",
         tags: ["Nature"],
-        src: 'img/Nature.jpg'
+        src: 'img/nature.jpg'
     },
     {
         name: "Animal in nature",
