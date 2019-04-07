@@ -1,0 +1,21 @@
+body {
+    max-width: 60em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    padding: 5px;
+}
+
+.active {
+    background-color: lightblue; 
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: inline;
+}
